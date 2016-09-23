@@ -1,0 +1,9 @@
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.Cache
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmMain.resources
+D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmNhanVien.resources
