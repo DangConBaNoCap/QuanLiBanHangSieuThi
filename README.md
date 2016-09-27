@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# QuanLiBanHangSieuThi
+>>>>>>> 2112ea33f0a64c860cb70a16210034847c8402bb
 Xây dựng CSDL hàng hóa, nhân viên, khách hàng, hóa đơn,…(Trường)
 
 Thiết kế giao diện cửa sổ chính (màn hình đăng nhập, các menu trỏ đến các module con,…), Xây dựng module quản lý người dùng(Trường)
