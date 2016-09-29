@@ -7,3 +7,6 @@ D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHan
 D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
 D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmMain.resources
 D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmNhanVien.resources
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
