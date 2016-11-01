@@ -24,6 +24,14 @@ namespace QuanLiBanHang.Gui
 
         }
 
+        private void QuanLiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmBanHang bh = new frmBanHang();
+            bh.ShowDialog();
+        }
+
+        
+
        
 
         

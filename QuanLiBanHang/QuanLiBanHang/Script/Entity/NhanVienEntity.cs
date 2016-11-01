@@ -22,12 +22,12 @@ namespace QuanLiBanHang.Entity
             get { return _TenNV; }
             set { _TenNV = value; }
         }
-        private string _MK;
+        private string _MatKhau;
 
-        public string MK
+        public string MatKhau
         {
-            get { return _MK; }
-            set { _MK = value; }
+            get { return _MatKhau; }
+            set { _MatKhau = value; }
         }
         private string _GT;
 

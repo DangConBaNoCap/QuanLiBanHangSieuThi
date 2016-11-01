@@ -62,7 +62,7 @@ namespace QuanLiBanHang.Data
             cmd.ExecuteNonQuery();
             KetNoiCSDL.DongKetNoi();
         }
-
+        
        
     }
 }

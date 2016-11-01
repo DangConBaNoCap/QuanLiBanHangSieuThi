@@ -28,7 +28,7 @@ namespace QuanLiBanHang.Data
             SqlCommand cmd = new SqlCommand(sql,KetNoiCSDL.connect);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaNV", nv.MaNV);
-            cmd.Parameters.AddWithValue("@MatKhau",nv.MK);
+            cmd.Parameters.AddWithValue("@MatKhau",nv.MatKhau);
             cmd.Parameters.AddWithValue("@TenNV", nv.TenNV);
             cmd.Parameters.AddWithValue("@GT", nv.GT);
             cmd.Parameters.AddWithValue("@DiaChi", nv.DiaChi);
@@ -46,7 +46,7 @@ namespace QuanLiBanHang.Data
            
             SqlCommand cmd = new SqlCommand(sql, KetNoiCSDL.connect);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@MatKhau", nv.MK);
+            cmd.Parameters.AddWithValue("@MatKhau", nv.MatKhau);
             cmd.Parameters.AddWithValue("@TenNV",nv.TenNV);
             cmd.Parameters.AddWithValue("@GT", nv.GT);
             cmd.Parameters.AddWithValue("@DiaChi", nv.DiaChi);
@@ -68,5 +68,10 @@ namespace QuanLiBanHang.Data
             KetNoiCSDL.DongKetNoi();
         }
       
+
+        public DataTable TimNhanVien(string  dk)
+        {
+            return con.GetDataTable(@"SELECT *FROM NHANVIEN WHERE TenNV LIKE N'%" +dk+"%'");
+        }
     }
 }

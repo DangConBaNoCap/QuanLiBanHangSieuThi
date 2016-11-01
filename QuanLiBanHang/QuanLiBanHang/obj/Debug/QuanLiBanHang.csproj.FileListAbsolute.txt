@@ -10,3 +10,12 @@ D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHan
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csprojResolveAssemblyReference.cache
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmMain.resources
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmNhanVien.resources
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.Cache
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmBanHang.resources
+D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmDangNhap.resources
