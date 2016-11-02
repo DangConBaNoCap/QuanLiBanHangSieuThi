@@ -22,3 +22,13 @@ D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHa
 C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
 C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
 C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmBanHang.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmDangNhap.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmMain.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.frmNhanVien.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Gui.FrmNhapHang.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+C:\Users\Ha Kentty\Documents\GitHub\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.Cache
