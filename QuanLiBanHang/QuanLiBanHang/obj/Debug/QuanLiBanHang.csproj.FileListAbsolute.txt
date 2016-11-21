@@ -10,3 +10,6 @@ D:\hoc_tap\nam_4\hk_1\Bt_Nhom\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHan
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
 D:\github\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+F:\Git\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+F:\Git\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+F:\Git\QuanLiBanHangSieuThi\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
