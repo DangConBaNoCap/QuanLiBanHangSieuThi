@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using QuanLiBanHang.Data;
+using QuanLiBanHang.Entity;
 namespace QuanLiBanHang.Gui
 {
     public partial class FrmNhapHang : Form
@@ -33,6 +34,22 @@ namespace QuanLiBanHang.Gui
         private void FrmNhapHang_Load(object sender, EventArgs e)
         {
             LoadDuLieu();
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            SanPhamEntity sp = new SanPhamEntity();
+            sp.TenSP = txtTenSP.Text;
+            sp.SoLuong = int.Parse(txtSoLuong.Text);
+            sp.MaLH = cboLoaiHang.SelectedValue.ToString();
+            sp.GiaNhap = int.Parse(txtGiaNhap.ToString());
+            sp.GiaBan = int.Parse(txtGiaBan.ToString());
+            sp.MoTa = rtbMoTa.Text;
+            sp.NSX = dtNgaySX.Value.ToString();
+            sp.NhaCC = cboNhaCC.SelectedValue.ToString();
+            SanPhamBus temp = new SanPhamBus();
+            temp.ThemSanPham(sp);
+
         }
     }
 }

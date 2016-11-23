@@ -23,7 +23,7 @@ namespace QuanLiBanHang.Data
         {
 
             KetNoiCSDL.MoKetNoi();
-            string sql = "INSERT INTO SANPHAM(MaSP, TenSP,MaLH,SoLuong,GiaNhap,GiaBan,MoTa,NSX,HinhAnh,NhaCC) VALUES(@MaSP,@TenSP,@MaLH,@SoLuong,@GiaNhap,@GiaBan,@MoTa,@NSX,@HinhAnh,@NhaCC)";
+            string sql = "INSERT INTO SANPHAM(MaSP, TenSP,MaLH,SoLuong,GiaNhap,GiaBan,MoTa,NSX,NhaCC) VALUES(@MaSP,@TenSP,@MaLH,@SoLuong,@GiaNhap,@GiaBan,@MoTa,@NSX,@NhaCC)";
             SqlCommand cmd = new SqlCommand(sql, KetNoiCSDL.connect);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaSP", nv.MaSP);
@@ -34,7 +34,7 @@ namespace QuanLiBanHang.Data
             cmd.Parameters.AddWithValue("@GiaBan", nv.GiaBan);
             cmd.Parameters.AddWithValue("@MoTa", nv.MoTa);
             cmd.Parameters.AddWithValue("@NSX", nv.NSX);
-            cmd.Parameters.AddWithValue("@HinhAnh", nv.HinhAnh);
+            //cmd.Parameters.AddWithValue("@HinhAnh", nv.HinhAnh);
             cmd.Parameters.AddWithValue("@NhaCC", nv.NhaCC);
             cmd.ExecuteNonQuery();
             KetNoiCSDL.DongKetNoi();
